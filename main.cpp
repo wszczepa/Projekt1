@@ -114,7 +114,7 @@ void scalanie(int tab[],int temp[], int lewa,int srodek, int prawa){
     }
     }
 
-SortowaniePrzezScalanie(int tab[],int temp[], int lewa, int prawa){
+void SortowaniePrzezScalanie(int tab[],int temp[], int lewa, int prawa){
 
 
 if(prawa>lewa){
